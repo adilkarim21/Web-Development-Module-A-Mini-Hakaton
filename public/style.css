@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-caption{
+    position: absolute;
+    bottom: 170px;
+    text-align: left;
+}
+
+.section-padding{
+    padding: 100px 0px;
+}
+
+.aboutbutton{
+    width: 30%;
+}
+
+.cardimages{
+    width: 25%;
+}
+
+.aboutbutton2{
+    width: 38%;
+}
+
+.paddingapply{
+    padding: 5% 2%;
+}
+
+.aboutbutton3{
+    width: 25%;
+}
+
+.footersection{
+    background-color: #301A22;
+}
